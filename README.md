@@ -108,6 +108,14 @@ data/output/
 
 ---
 
+
+## 🔥 New!
+How to Run the GUI launcher
+```
+python3 bag_to_gazebo_gui.py 
+```
+
+
 ## All Options
 
 | Argument | Default | Description |
