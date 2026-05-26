@@ -1,3 +1,6 @@
+# 🔥 Update
+To reduce the number of managed repos, I have integrated this code into a new repo called [bellhop](https://github.com/gglaspell/bellhop).
+
 # bag_to_gazebo_world
 
 Convert a ROS 2 bag file containing 3D LiDAR scans into a ready-to-use Gazebo simulation world — automatically.
